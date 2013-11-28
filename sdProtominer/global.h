@@ -67,6 +67,9 @@ extern volatile uint32 totalCollisionCount;
 extern volatile uint32 totalShareCount;
 extern volatile uint32 monitorCurrentBlockHeight;
 
+#ifndef max
 int min(int x, int y);
 int max(int x, int y);
+#endif
+
 long GetTickCount();

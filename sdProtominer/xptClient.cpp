@@ -56,6 +56,7 @@ xptClient_t* xptClient_connect(generalRequestTarget_t* target, uint32 payloadNum
 	xptClient->recvBuffer = xptPacketbuffer_create(256*1024);
 	strncpy(xptClient->username, target->authUser, 127);
 	strncpy(xptClient->password, target->authPass, 127);
+    
 	xptClient->payloadNum = max(1, min(127, payloadNum));
     
 //	InitializeCriticalSection(&xptClient->cs_shareSubmit);

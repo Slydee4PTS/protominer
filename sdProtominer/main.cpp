@@ -46,15 +46,16 @@ struct
 uint32 uniqueMerkleSeedGenerator = 0;
 uint32 miningStartTime = 0;
 
+#ifndef max
 int min(int x, int y)
 {
     return (x < y)?x:y;
 }
-
 int max(int x, int y)
 {
     return (x < y)?y:x;
 }
+#endif
 
 
 long GetTickCount()
