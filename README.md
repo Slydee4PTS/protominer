@@ -5,7 +5,7 @@ https://github.com/jh000/jhProtominer
 
 If you want to build this application, just create a Terminal project with XCode, insert all source file to your new created project, build it, and run it!
 
-I just convert some few stuff to make it compatible with MAC OS, and change some sleep value to receonnect on lost connection a little bit faster!
+I just convert some few stuff to make it compatible with MAC OS and remove compile warnings.
 
 Be free to change this code to fill your needs!
 
