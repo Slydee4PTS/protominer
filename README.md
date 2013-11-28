@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-I made this project conversion from jhProtominer made by jh00 available for Windows OS here:
-=======
-I made this project conversion from jhProtominer made by jh00 available for Windows OS here: 
->>>>>>> 16c65e5da53dc39357ab118a0ea41297569119df
+
+I just  made this source conversion from jhProtominer made by jh00 available for Windows OS here: 
 
 https://github.com/jh000/jhProtominer
 
