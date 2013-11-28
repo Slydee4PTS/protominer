@@ -1,4 +1,6 @@
-I made this project conversion from jhProtominer available for windows here:
+I made this project conversion from jhProtominer made by jh00 available for Windows OS here: 
+
+https://github.com/jh000/jhProtominer
 
 I just convert some few stuff to make it compatible with MAC OS.
 
